@@ -9,7 +9,6 @@ function App() {
   return (
     <>
     <div className='text-center'>
-      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis architecto minima deserunt ducimus reprehenderit, illum, consequatur ratione earum sequi dolore optio inventore, qui ipsa. Tempora eos totam quasi natus ex?</p>
     </div>
     </>
   )
