@@ -18,17 +18,7 @@ const Login = () => {
         <h2 className="p-3 text-3xl font-bold text-pink-400">Horiz</h2>
         <div className="inline-block border-[1px] justify-center w-20 border-blue-400 border-solid"></div>
         <h3 className="text-xl font-semibold text-blue-400 pt-2">Sign In!</h3>
-        {/* <div className="flex space-x-2 m-4 items-center justify-center">
-          <div className="socialIcon">
-            <Facebook />
-          </div>
-          <div className="socialIcon">
-            <GitHub />
-          </div>
-          <div className="socialIcon">
-            <Google />
-          </div>
-        </div> */}
+      
         {/* Inputs */}
         <div className="flex flex-col items-center justify-center">
           <input
